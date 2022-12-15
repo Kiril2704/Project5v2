@@ -53,7 +53,7 @@ public class Plane : MonoBehaviour
         //betterPeople[0] = new BetterPerson("Name1",122,12f);
         //Weapon weapon1 = new Weapon();
         //Weapon weapon2 = new Weapon();
-        //Weapon weapon3 = new Weapon();
+        //Weapon weapon3 =  new Weapon();  
 
 
         //betterPeople[1] = new Player(weapon1,weapon2,weapon3, "PlayerName",222,10f);
